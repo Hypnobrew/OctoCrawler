@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octo.Runner", "Octo.Runner\Octo.Runner.csproj", "{1C75C943-CFFE-45A7-ABC0-126AA61FAA56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octo.Core", "Octo.Core\Octo.Core.csproj", "{D3E5AC2F-C7F8-4CF2-BE38-2E2B2341A219}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octo.Infrastructure", "Octo.Infrastructure\Octo.Infrastructure.csproj", "{6A54C30E-C787-4438-BBEB-CB6205DED701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C75C943-CFFE-45A7-ABC0-126AA61FAA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C75C943-CFFE-45A7-ABC0-126AA61FAA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C75C943-CFFE-45A7-ABC0-126AA61FAA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C75C943-CFFE-45A7-ABC0-126AA61FAA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E5AC2F-C7F8-4CF2-BE38-2E2B2341A219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E5AC2F-C7F8-4CF2-BE38-2E2B2341A219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E5AC2F-C7F8-4CF2-BE38-2E2B2341A219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E5AC2F-C7F8-4CF2-BE38-2E2B2341A219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A54C30E-C787-4438-BBEB-CB6205DED701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A54C30E-C787-4438-BBEB-CB6205DED701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A54C30E-C787-4438-BBEB-CB6205DED701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A54C30E-C787-4438-BBEB-CB6205DED701}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
